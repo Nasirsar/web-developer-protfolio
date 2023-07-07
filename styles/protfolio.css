@@ -24,6 +24,9 @@ nav {
     font-weight: 700;
     padding: 15px 35px;
 }
+.header{
+    background-color:#f5eae2;;
+}
 
 .nav-title {
     color: #181818;
@@ -40,3 +43,14 @@ nav li {
     list-style: none;
     margin-right: 50px;
 }
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+
+}
+.banner .profile picture{
+    width: 500px;
+}
+
